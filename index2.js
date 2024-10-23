@@ -56,23 +56,28 @@
 
 // task 3 
 
-const prompt = require ("prompt-sync")()
-let a = parseInt(prompt("enter your a is__"));
-let b = parseInt(prompt("enter your b is__"));
-let operator = prompt("enter your operator is__");
+// const prompt = require ("prompt-sync")()
+// let a = parseInt(prompt("enter your a is__"));
+// let b = parseInt(prompt("enter your b is__"));
+// let operator = prompt("enter your operator is__");
 
-if(operator === "+"){
-    console.log(a+b)
-}
-else if (operator === "-"){
-    console.log(a-b)
-}
-else if (operator === "*"){
-    console.log(a*b)
-}
-else if (operator === "/"){
-    console.log(a/b)
-}
-else{
-    console.log("invalid")
-}
+// if(operator === "+"){
+//     console.log(a+b)
+//     // output = a + b
+// }
+// else if (operator === "-"){
+//     console.log(a-b)
+//     // output = a - b
+    
+// }
+// else if (operator === "*"){
+//     console.log(a*b)
+//     // output = a * b
+// }
+// else if (operator === "/"){
+//     console.log(a/b)
+//     // output = a / b
+// }
+// else{
+//     console.log("invalid")
+// }
